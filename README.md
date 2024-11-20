@@ -1,6 +1,7 @@
-# Data Analysis with Python -> HFTCryptoArbitrage
-Cryptocurrency High-frequency Trading ON:
-Binance, BitMex, Bybit, Gate, ....
+# Data Analysis with Python (My Personal Project)
+# -> HFTCryptoArbitrage
+# Cryptocurrency High-frequency Trading ON:
+# Binance, BitMex, Bybit, Gate, ....
 
 ![SharpTrader-difference-analyses](https://github.com/user-attachments/assets/0bfcf5c2-a05b-42ba-bf18-4b13eb338d9b)
 <img width="1440" alt="Screenshot 2024-11-06 at 08 05 33" src="https://github.com/user-attachments/assets/bf483589-899c-43ae-bb2c-5c11610a804c">
